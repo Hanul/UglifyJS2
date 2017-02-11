@@ -1,14 +1,6 @@
 UglifyJS 2
 ==========
-[![Build Status](https://travis-ci.org/mishoo/UglifyJS2.svg)](https://travis-ci.org/mishoo/UglifyJS2)
-
 UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit.
-
-This page documents the command line utility.  For
-[API and internals documentation see my website](http://lisperator.net/uglifyjs/).
-There's also an
-[in-browser online demo](http://lisperator.net/uglifyjs/#demo) (for Firefox,
-Chrome and probably Safari).
 
 Install
 -------
@@ -18,15 +10,15 @@ First make sure you have installed the latest version of [node.js](http://nodejs
 
 From NPM for use as a command line app:
 
-    npm install uglify-js -g
+    npm install hanul-uglify-js -g
 
 From NPM for programmatic use:
 
-    npm install uglify-js
+    npm install hanul-uglify-js
 
 From Git:
 
-    git clone git://github.com/mishoo/UglifyJS2.git
+    git clone git://github.com/Hanul/UglifyJS2.git
     cd UglifyJS2
     npm link .
 
